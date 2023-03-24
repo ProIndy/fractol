@@ -17,4 +17,4 @@ A fractal graphics program
 2. `make`
 
 ## Usage
-`./life <initial_state_file> <number_of_iterations>`
+`./fractol <set_to_calculate>`
